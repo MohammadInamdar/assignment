@@ -1,0 +1,10 @@
+.navLinksContainer {
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+@media only screen and (max-width: 900px) {
+  .container {
+    display: none;
+  }
+}
